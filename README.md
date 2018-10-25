@@ -1,3 +1,6 @@
+# This is a sample to demonstrate the bug
+https://github.com/matt-filion/serverless-external-s3-event/issues/66
+
 # Steps to reproduce:
 ## 1- clone the project
 clone the project using the following command:
@@ -28,5 +31,5 @@ sls deploy
 followed by
 
 ```commandLine
-sls s3Deploy
+sls s3deploy
 ```
