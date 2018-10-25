@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "serverless-plugin-existing-s3": "^2.2.2",
+    "serverless-pseudo-parameters": "^2.2.0"
+  }
+}
